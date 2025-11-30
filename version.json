@@ -1,8 +1,7 @@
 {
   "name": "SDAT_Notas",
   "version": "1.0.4",
-  "releaseNotes": "Versão inicial com envio/consulta e instalador.",
-  "notes": "Versão inicial com envio/consulta e instalador.",
-  "url": "https://eletrobrasroraima-my.sharepoint.com/_layouts/15/download.aspx?SourceUrl=/personal/thacito_carneiro_roraimaenergia_com_br/Documents/SDAT_NOTAS/SDAT_Notas.xlam",
-  "xlam_url": "https://eletrobrasroraima-my.sharepoint.com/_layouts/15/download.aspx?SourceUrl=/personal/thacito_carneiro_roraimaenergia_com_br/Documents/SDAT_NOTAS/SDAT_Notas.xlam"
+  "releaseNotes": "Correções e melhorias.",
+  "url": "https://github.com/elmerliracar2/SDAT/raw/refs/heads/main/SDAT_Notas.xlam",
+  "timestamp": "2025-11-29T00:00:00Z"
 }
